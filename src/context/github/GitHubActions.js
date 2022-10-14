@@ -1,4 +1,3 @@
-import { data } from "autoprefixer";
 import axios from "axios";
 
 const GITHUB_URL = process.env.REACT_APP_GITHUB_URL;
